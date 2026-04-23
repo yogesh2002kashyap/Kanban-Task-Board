@@ -44,7 +44,7 @@ Make sure you have Node.js installed, then run:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/kanban-task-board.git
+git clone https://github.com/yogesh2002kashyap/kanban-task-board.git
 cd kanban-task-board
 
 # Install dependencies
